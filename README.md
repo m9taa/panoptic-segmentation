@@ -1,2 +1,3 @@
 # panoptic-segmentation
-Repo for panoptic segmentation experiments.
+
+Эксперименты в решении задачи паноптической сегментации.
