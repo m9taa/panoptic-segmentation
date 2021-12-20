@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+DATA_DIR='coco'
+
+IMAGES_DIR="${DATA_DIR}/images"
+TRAIN_IMAGES_DIR="${IMAGES_DIR}/train"
+VAL_IMAGES_DIR="${IMAGES_DIR}/val"
+
+ANNOTATIONS_DIR="${DATA_DIR}/annotations"
+TRAIN_ANNOTS_DIR="${ANNOTATIONS_DIR}/train"
+VAL_ANNOTS_DIR="${ANNOTATIONS_DIR}/val"
